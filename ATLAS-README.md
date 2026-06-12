@@ -9,7 +9,7 @@
 
 ## 🌐 Live Website
 
-**[atlas-health-agent.vercel.app](https://atlas-health-agent.vercel.app)**
+**[atlas-fitness-liard.vercel.app](https://atlas-fitness-liard.vercel.app)**
 
 Open on any device — phone, tablet, laptop. No installation needed.
 
